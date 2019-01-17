@@ -1,0 +1,14 @@
+{
+  "name": "BestOfToxic",
+  "version": "0.0.0",
+  "description": "Friendly neighbourbood bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+	},
+  "author": "TITANium",
+  "dependencies": {
+    "discord.js": "11.1.0",
+	  "request": "2.01.0"
+  }
+}
